@@ -306,7 +306,6 @@ a:focus {
 
 .span9 {
   width: 700px;
-  height: 800px;
 }
 
 .span8 {

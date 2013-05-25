@@ -16,27 +16,25 @@
         <div class="span3">  
           <div class="well sidebar-nav">  
             <ul class="nav nav-list">  
-           	<li><a href="home.html">Home</a></li>
-              <li><a href="AboutUs.html">About Us</a></li>
-              <li><a href="Services.html">Services</a></li>
-              <li><a href="ContactUs.html">Contact Us</a></li>  
+           		<li><a href="#">Home</a></li>
+              <li><a href="#">About Us</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="#">Contact Us</a></li>  
             </ul>  
           </div>
-        </div>
-        <h1>Home Page</h1> 
-        <div class="span9" style='background-image:url(1.JPG); background-repeat:no-repeat; background-size:max-width=100%; background-size:max-height=100%;'>  
+        </div>  
+        <div class="span9">  
           <div class="leaderboard">  
-            <p style='text-align:center'>Some text</p>  
-            <p style='align:center'><a href='LogIn.html' class="btn btn-success btn-large">Log In</a></p>  
+            <h1>Home Page</h1>  
+            <p>Some text</p>  
+            <p><a class="btn btn-success btn-large">Come to us</a></p>  
           </div>  
           <hr>  
-  
-    </div>
-    
      <footer>  
-        <p style='text-align:center'>© Niko Incorporated</p>  
+        <p>© Niko Incorporated</p>  
       </footer>  
-    <!--/.fluid-container-->  
+  
+    </div><!--/.fluid-container-->  
       
     <!-- Le javascript  
     ================================================== -->  
